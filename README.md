@@ -41,7 +41,7 @@
 ---
  **2.  Deploy To Replit**
 
-<a href="https://replit.com"><img title="QUEEN-MIKU Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com"><img title="𝔅𝔄ℜ𝔒𝔘 𝔪𝔡 Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 ---
 **3. Deploy to HEROKU ↓**
 
